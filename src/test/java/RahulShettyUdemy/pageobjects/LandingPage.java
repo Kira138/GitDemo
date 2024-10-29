@@ -45,4 +45,8 @@ public class LandingPage extends AbstractComponent    //pageobject should not ho
 	{
 		  driver.get("https://rahulshettyacademy.com/client");
 	}
+	public pulldemo
+	{
+	system.out.println("pull success");
+	}
 }
